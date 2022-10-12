@@ -2,13 +2,6 @@
 キノコの物理的特徴に対して線形判別分析(LDA)を行う。<br>
 データセットはほとんど全て質的変数なので、ダミー変数を導入し `one-hot` 特徴量に変換してLDAの入力としている。<br>
 
-## 作成経緯
-ゼミの課題
-> 多変量解析，機械学習：主成分分析 or 対応分析 or クラスタリング or 判別分析 or SVM 発表<br>
-> 何でもよいので実データを収集してデータ分析（重回帰分析は基本的に不可）を実行し考察せよ
-
-により作成したもの
-
 ## データの収集
 [Mushroom Data Set -UCI Machine Learing Repository](https://archive.ics.uci.edu/ml/datasets/mushroom) より。
 
